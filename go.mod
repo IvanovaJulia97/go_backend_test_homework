@@ -1,3 +1,3 @@
-module test-repo
+module github.com/IvanovaJulia97/go_backend_test_homework
 
-go 1.19
+go 1.21.6
